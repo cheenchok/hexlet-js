@@ -1,3 +1,3 @@
-import log from "./src/index.js";
+import { log } from './src/index';
 
 log();
